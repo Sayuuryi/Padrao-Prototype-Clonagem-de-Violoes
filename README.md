@@ -1,5 +1,3 @@
-﻿# Projeto Clonagem de Violãos
+# Projeto Clonagem de Violãos
 
 Atividade de Padroes de Projeto.
-
-Repositorio separado a partir de $Owner/Faculdade-TSI, pasta $SourceSubdir.
